@@ -27,8 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Check my code on Codepen](https://codepen.io/neew20/pen/VwBqaXY)
+- [Live demo of the QR code component](https://qr-code-component-plum.vercel.app/)
 
 ## My process
 
