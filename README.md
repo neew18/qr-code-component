@@ -1,6 +1,3 @@
-# qr-code-component
-This is one of the challenges from the Frontend mentor. This challenge is to build out this QR code component and get it looking as close to the design as possible.
-
 # Frontend Mentor - QR code component solution
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
@@ -20,15 +17,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-
+#### Mobile View
 ![qr-mobile](https://user-images.githubusercontent.com/98087868/216332525-e8efee6a-111b-4065-843c-d0aeab1e00f8.PNG)
 
 ![qr-web](https://user-images.githubusercontent.com/98087868/216332553-d0184408-4f8d-41e5-83f5-c9c8219b553c.PNG)
 
 ### Links
-
-- [Check my code on Codepen](https://codepen.io/neew20/pen/VwBqaXY)
-- [Live demo of the QR code component](https://qr-code-component-plum.vercel.app/)
+#### Desktop View
+- Check my code on [Codepen](https://codepen.io/neew20/pen/VwBqaXY).
+- Live [demo](https://qr-code-component-plum.vercel.app/) of the QR code component.
 
 ## My process
 
